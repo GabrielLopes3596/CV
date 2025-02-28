@@ -1,6 +1,6 @@
 # CV
 
-This project was created to build my CV. It's a work in progress and may change overtime! :)
+Quick code base to create my CV. May change overtime! :)
 
 ## Recommended IDE Setup
 
